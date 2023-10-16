@@ -3,3 +3,7 @@
 - 🌱 I’m currently learning Git,Jira,Confluence
 - 💞️ I’m not looking to collaborate
 - 📫 You can reach me through the medium of interpretive dance...
+
+- [x] autocrlf
+- [ ] help
+
